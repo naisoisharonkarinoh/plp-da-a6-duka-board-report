@@ -2,11 +2,11 @@
 
 ## Dashboard Purpose
 
-This dashboard presents Duka Electronics' sales performance for January–June 2026. It is intended to help the CEO and board make informed decisions about the H2 2026 budget.
+This dashboard presents Duka Electronics' sales performance for January–June 2026. It is intended to help the CEO and board make informed decisions about the H2 2026 budget
 
 ## Dashboard Link
 
-**Looker Studio URL:** To be added after publishing the dashboard.
+[Open the Duka Electronics H1 2026 Dashboard](https://datastudio.google.com/reporting/79fb0332-1dce-473c-81cc-bbd1b9cbc753)
 
 ## Required Dashboard Components
 
