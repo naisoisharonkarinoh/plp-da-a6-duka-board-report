@@ -19,15 +19,13 @@ This dashboard presents Duka Electronics' sales performance for January–June 2
 
 ## Dashboard Screenshots
 
-Add at least two screenshots of the published dashboard below.
-
 ### Screenshot 1 — Overview
 
-*To be added.*
+![Dashboard overview](figures/dashboard_overview.png)
 
 ### Screenshot 2 — Sales Breakdown
 
-*To be added.*
+![Dashboard filtered to Eldoret](figures/dashboard_details.png)
 
 ## Key Business Question
 
